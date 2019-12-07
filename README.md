@@ -1,4 +1,4 @@
 # EulerLangrangeDynamics_ParameterAdaptionWithNoise
-Download the repo inside MATLAB path \n
-Open the simulink file (.slx) \n
+Download the repo inside MATLAB path
+Open the simulink file (.slx) 
 Double click on the controller and dynamic block to check the code
